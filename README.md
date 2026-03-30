@@ -15,4 +15,4 @@ Este dashboard foi desenvolvido para analisar o desempenho de vendas de uma rede
 * **Análise de Metas:** Comparativo visual através de gráfico de velocímetro (Gauge).
 
  📸 Visualização
-<img width="997" height="626" alt="Captura de tela 2026-03-30 082320" src="https://github.com/user-attachments/assets/75610a6d-0986-431b-b6a8-bd60f1c9d300" />
+<img width="991" height="620" alt="Captura de tela 2026-03-30 083718" src="https://github.com/user-attachments/assets/988def07-7860-4cc4-bd52-08340d265ca5" />
